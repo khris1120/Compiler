@@ -10,4 +10,4 @@
 
 ### HW3
 
-- Finished basic, ArthimeticExpression, pointer and bonus
+- Finished Basic, ArthimeticExpression, Pointer and Bonus
